@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🌱 I’m currently in Sedney, working on a **Master Degree of Data Science and Innovation at University of Technology Sedney (UTS)**
-- 
-- 🌱 Main courses are about **Data Engineering, Artificial Intelligence (AI)...**
+- 🌱 I’m currently in Sedney, working on **Master Degree of Data Science and Innovation at University of Technology Sedney (UTS)**
+
+- 🌱 Main courseworks are about **Big Data Engineering, Statistical Thinking for Data Science, Artificial Intelligence (AI)...**
+
+-  🌱 What I am after **Data Analyst, Data Scientist, Data Engineerer, Machine Learning/AI analyst, Database Administrator...**
+  
+<h3 align="left">Personal Summary:</h3>
+Self-motivated and detail-oriented Data Analyst with 3+ years of experience in data analysis, visualization, and data management in fields of E-commerce and Financial service. Extensive experiences in SQL, Python, and BI tools. Strong analytical skills with a proven track record of improving business decision-making through data insights. In the pursuit of MDSI at UTS at the moment, and wanting to go further with career and explore more opportunities.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

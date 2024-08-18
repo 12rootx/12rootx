@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
-<h3 align="center">Data Analyst</h3>
 
 - 🌱 I’m currently in Sedney, working on **Master Degree of Data Science and Innovation at University of Technology Sedney (UTS)**
 

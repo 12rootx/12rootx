@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently in Sedney, working on **Master Degree of Data Science and Innovation at University of Technology Sedney (UTS)**
 
-- 🌱 Courseworks Focus on **Big Data Engineering, Statistical Thinking for Data Science, Artificial Intelligence (AI)...**
+- 🌱 Courseworks Focus on **Big Data Engineering, Statistical Thinking for Data Science, Machine Learning (ML) and Artificial Intelligence (AI)...**
 
 -  🌱 Seeking roles as **Data Analyst, Data Scientist, Data Engineerer, Machine Learning/AI analyst, Database Administrator...**
   

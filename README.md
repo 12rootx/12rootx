@@ -72,7 +72,7 @@ Self-motivated and detail-oriented Data Analyst with 3+ years of experience in d
     <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow"/>
   </a>
   <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/D/databricks-logo-6B1D66B020-seeklogo.com.png" alt="Databricks" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks"/>
   </a>
   <a href="https://dlthub.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/DLT-000000?style=flat" alt="DLT"/>

@@ -55,7 +55,7 @@ Self-motivated and detail-oriented Data Analyst with 3+ years of experience in d
 
   <!-- LLM Ecosystem -->
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
   </a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
     <img src="https://github.com/langchain-ai/langgraph/raw/main/docs/static/img/favicon.png" alt="LangGraph" width="40" height="40"/>

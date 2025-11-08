@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anna Chen</h1>
 
-- 🌱 I’m currently in Sedney, working on **Master Degree of Data Science and Innovation at University of Technology Sedney (UTS)**
+- 🌱 I’m currently in Sydney, working on **Master Degree of Data Science and Innovation at University of Technology Sedney (UTS)**
 
 - 🌱 Courseworks Focus on **Big Data Engineering,  Applied Natural Language Processing, Deep Learning, Machine Learning...**
 
